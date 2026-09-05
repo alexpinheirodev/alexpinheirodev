@@ -1,10 +1,10 @@
-# Alex Pinheiro
+Alex Pinheiro
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em formação, com interesse em desenvolvimento de software.
 
 Atualmente, estou construindo minha base em programação por meio da graduação e de projetos práticos, explorando diferentes áreas do desenvolvimento, incluindo **Frontend e Backend**.
 
-## Tecnologias
+Tecnologias
 
 * HTML
 * CSS
@@ -13,7 +13,7 @@ Atualmente, estou construindo minha base em programação por meio da graduaçã
 * Git
 * GitHub
 
-## Desenvolvimento
+Desenvolvimento
 
 Durante minha formação, tenho contato com diferentes áreas do desenvolvimento de software, incluindo:
 
@@ -24,9 +24,9 @@ Durante minha formação, tenho contato com diferentes áreas do desenvolvimento
 * Estruturação de aplicações
 * Controle de versão com Git e GitHub
 
-## Projetos
+Projetos
 
-### GameZone
+GameZone
 
 Projeto acadêmico desenvolvido em grupo para a criação de uma plataforma relacionada ao universo dos jogos.
 
@@ -40,7 +40,7 @@ Minha contribuição foi o desenvolvimento da **Página de Perfil do Usuário**,
 * Estilização com CSS
 * Integração com o layout geral do projeto
 
-## Atualmente estudando
+Atualmente estudando
 
 * Desenvolvimento Frontend
 * Desenvolvimento Backend
@@ -50,13 +50,13 @@ Minha contribuição foi o desenvolvimento da **Página de Perfil do Usuário**,
 * Lógica de programação
 * Boas práticas de desenvolvimento
 
-## Objetivo profissional
+Objetivo profissional
 
 Busco minha **primeira oportunidade em uma empresa de tecnologia**, onde possa atuar na área de desenvolvimento de software e continuar evoluindo profissionalmente.
 
 Tenho interesse em oportunidades de **Frontend, Backend ou outras áreas relacionadas ao desenvolvimento**, estando aberto a aprender novas tecnologias e contribuir com a equipe.
 
-## Contato
+Contato
 
 **LinkedIn:** [linkedin.com/in/alex-pinheiro-aa57b126](https://www.linkedin.com/in/alex-pinheiro-aa57b126)
 
