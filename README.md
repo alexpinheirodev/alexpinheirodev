@@ -1,8 +1,8 @@
 Alex Pinheiro
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em formação, com interesse em desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação, com interesse em desenvolvimento de software.
 
-Atualmente, estou construindo minha base em programação por meio da graduação e de projetos práticos, explorando diferentes áreas do desenvolvimento, incluindo **Frontend e Backend**.
+Atualmente, estou construindo minha base em programação por meio da graduação e de projetos práticos, explorando diferentes áreas do desenvolvimento.
 
 Tecnologias
 
@@ -22,7 +22,6 @@ Durante minha formação, tenho contato com diferentes áreas do desenvolvimento
 * Lógica de programação
 * Banco de dados
 * Estruturação de aplicações
-* Controle de versão com Git e GitHub
 
 Objetivo profissional
 
